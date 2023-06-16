@@ -1,1 +1,5 @@
-teste
+![](https://raw.githubusercontent.com/cievs-ses-rj/cievs-ses-rj/main/logo/logo_cievs.png)
+
+Nas últimas três décadas, o mundo vem passando por um aumento no registro de epidemias de doenças antigas como a dengue, a febre amarela e o cólera, e a disseminação de novas doenças como a AIDS, febre hemorrágica pelo vírus ebola, hantavirose, febre do Nilo ocidental, síndrome respiratória aguda grave. Esse quadro pode ser atribuído às transformações ambientais e ao aumento do fluxo de pessoas e mercadorias intrínsecas ao processo de globalização.
+O Centro de Informações Estratégicas e Resposta de Vigilância em Saúde (CIEVS) surgiu como uma estratégia da Vigilância em Saúde para fortalecimento da capacidade de alerta e resposta do Sistema Único de Saúde frente às emergências em Saúde Pública.
+No estado do Rio de Janeiro, o CIEVS foi criado em 2007, no processo de estabelecimento de pontos focais estaduais voltados para o aumento da capacidade de alerta e resposta às emergências em Saúde Pública. Atualmente é uma coordenação subordinada diretamente a Subsecretaria de Vigilância em Saúde (SVS) da Secretaria de Estado de Saúde (SES-RJ). Desenvolve suas ações de forma integrada com os setores da SES-RJ, especialmente as áreas técnicas de Vigilância Epidemiológica e Ambiental.
