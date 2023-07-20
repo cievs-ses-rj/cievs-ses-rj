@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/cievs-ses-rj/cievs-ses-rj/main/logo/logo_cievs_v2.png)
+![](https://raw.githubusercontent.com/cievs-ses-rj/cievs-ses-rj/main/logo/logo_cievs_v3.png)
 
 Nas últimas três décadas, o mundo tem enfrentado um aumento no número de epidemias de doenças antigas, como dengue, febre amarela e cólera, além da disseminação de novas doenças, como AIDS, febre hemorrágica pelo vírus Ebola, hantavirose, febre do Nilo ocidental e síndrome respiratória aguda grave. Esse cenário pode ser atribuído às transformações ambientais e ao aumento do fluxo de pessoas e mercadorias decorrentes do processo de globalização.
 
